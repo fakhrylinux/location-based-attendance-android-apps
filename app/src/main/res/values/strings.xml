@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance Apps</string>
+    <string name="out_of_range">Out of range</string>
+    <string name="check_in_success">Check-in Success</string>
+</resources>

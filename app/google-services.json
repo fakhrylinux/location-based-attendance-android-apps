@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585632391786",
+    "project_id": "aplikasi-absensi-online-eb81f",
+    "storage_bucket": "aplikasi-absensi-online-eb81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585632391786:android:f971175cd9efd449452013",
+        "android_client_info": {
+          "package_name": "com.example.attendanceapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585632391786-2icjgpfrr8lbcc37v2jh8uqnc0onfp9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TA593EMI2OQfN5NjG__q46VlmrNRbp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585632391786-2icjgpfrr8lbcc37v2jh8uqnc0onfp9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
